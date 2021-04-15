@@ -11,13 +11,13 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs
 #EXTINF: -1 tvg-id = "SPORTV 1" tvg-name = "SPORTV 1 FHD ALTERNATIVO" tvg-logo = "http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" grupo Esportes = título ", SPORTV 1 FHD ALTERNATIVO 
 http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14360.m3u8
 #EXTINF: -1 tvg-id = "SPORTV 2" tvg-name = "SPORTV 2 SD" tvg-logo = "http://img.starbr.in/1559767136_beb250b47a8f261b8dc9f81c035ad059abf4b90d.jpg" group-title = "Esportes", SPORTV 2 SD
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sportv2_22ab0e43_4e6d65d12c8c5e1c96e948652833eaa530e0ba00/1618524362000.ts
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sportv2_22ab0e43_4e6d65d12c8c5e1c96e948652833eaa530e0ba00/playlist.m3u8
 #EXTINF: -1 tvg-id = "SPORTV 2" tvg-name = "SPORTV 2 HD" tvg-logo = "http://img.starbr.in/1559767136_beb250b47a8f261b8dc9f81c035ad059abf4b90d.jpg" group-title = "Esportes", SPORTV 2 HD
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes7/esportes7_1000/index.m3u8
 #EXTINF: -1 tvg-id = "SPORTV 2" tvg-name = "SPORTV 2 FULL HD" tvg-logo = "http://img.starbr.in/1559767136_beb250b47a8f261b8dc9f81c035ad059abf4b90d.jpg" group-title = "Esportes", SPORTV 2 FULL HD
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes7/esportes7_2000/index.m3u8
 #EXTINF: -1 tvg-id = "SPORTV 3" tvg-name = "SPORTV 3 SD" tvg-logo = "http://img.starbr.in/1559767279_50e3fb28e897b471b2d5ea3e671a2e62505ebc31.png" group-title = "Esportes", SPORTV 3 SD
-https://extedge.eu-central-1.edge.mycdn.live/live/sportv3sd/2021/03/28/12/28/05-05000.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/sportv3_e1a864f0_a9ab912ae777eb6ba632cf1550cf2cb74e448fe7/playlist.m3u8
 #EXTINF: -1 tvg-id = "SPORTV 3" tvg-name = "SPORTV 3 SD ALTERNATIVA" tvg-logo = "http://img.starbr.in/1559767279_50e3fb28e897b471b2d5ea3e671a2e62505ebc31.png" group-title = "Esportes group-title =" Esportes SPORTV 3 SD ALTERNATIVA
 http://list.deeplist.nl:80/claudineteshow115/claudinetegostosa115/2402.m3u8
 #EXTINF: -1 tvg-id = "SPORTV 3" tvg-name = "SPORTV 3 HD ALTERNATIVA" tvg-logo = "http://img.starbr.in/1559767279_50e3fb28e897b471b2d5ea3e671a2e62505ebc31.png" group-title = "Esportes SPORTV 3 HD ALTERNATIVA
