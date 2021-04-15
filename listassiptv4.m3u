@@ -1,7 +1,5 @@
 # EXTM3U # EXTINF: -1 tvg-id = "SPORTV 1" tvg-name = "SPORTV HD" tvg-logo = "http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title = "Esportes" SPORTV 1 HD
 https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/sportv_91dfde1d_95cc71b3f3f469317b2a878957192195de7128d9/playlist.m3u8
-#EXTINF: -1 tvg-id = "SPORTV 1" tvg-name = "SPORTV 1 SD ALTERNATIVO 2" tvg-logo = "http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title = "group-title =" group-title = " Esportes ", SPORTV 1 SD ALTERNATIVO 2
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/sportv_91dfde1d_95cc71b3f3f469317b2a878957192195de7128d9/1618519042000.ts
 #EXTINF: -1 tvg-id = "SPORTV 1" tvg-name = "SPORTV SD ALTERNATIVO" tvg-logo = "http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title = "Esportes , SPORTV 1 SD ALTERNATIVO
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_500/index.m3u8
 #EXTINF: -1 tvg-id = "SPORTV 1" tvg-name = "SPORTV 1 SD" tvg-logo = "http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title = "Esportes" , SPORTV 1 SD
