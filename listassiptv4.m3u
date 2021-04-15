@@ -1,4 +1,4 @@
-# EXTM3U # EXTINF: -1 tvg-id = "SPORTV 1" tvg-name = "SPORTV HD" tvg-logo = "http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title = "Esportes" SPORTV 1 HD
+#EXTM3U#EXTINF: -1 tvg-id = "SPORTV 1" tvg-name = "SPORTV HD" tvg-logo = "http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title = "Esportes" SPORTV 1 HD
 https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/sportv_91dfde1d_95cc71b3f3f469317b2a878957192195de7128d9/playlist.m3u8
 #EXTINF: -1 tvg-id = "SPORTV 1" tvg-name = "SPORTV SD ALTERNATIVO" tvg-logo = "http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title = "Esportes , SPORTV 1 SD ALTERNATIVO
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_500/index.m3u8
@@ -6,9 +6,9 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_350/index.m3u8
 #EXTINF: -1 tvg-id = "SPORTV 1" tvg-name = "SPORTV 1 HD ALTERNATIVA" tvg-logo = "http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" grupo Esportes-title = "Esportes group-title =" Esportes group-title ", SPORTV 1 HD ALTERNATIVA
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sportv_91dfde1d_fc34ea1aabeabfa05bdf79ecc71f01460f729016/playlist.m3u8
-# EXTINF: -1 tvg-id = "SPORTV" tvg-name = "SPORTV FHD" tvg-logo = "http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title = "Esportes" SPORTV 1 FHD 
+#EXTINF: -1 tvg-id = "SPORTV" tvg-name = "SPORTV FHD" tvg-logo = "http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title = "Esportes" SPORTV 1 FHD 
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
-# EXTM3U # EXTINF: -1 tvg-id = "SPORTV 1" tvg-name = "SPORTV 1 FHD ALTERNATIVO" tvg-logo = "http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" grupo Esportes = título ", SPORTV 1 FHD ALTERNATIVO 
+#EXTINF: -1 tvg-id = "SPORTV 1" tvg-name = "SPORTV 1 FHD ALTERNATIVO" tvg-logo = "http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" grupo Esportes = título ", SPORTV 1 FHD ALTERNATIVO 
 http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14360.m3u8
 #EXTINF: -1 tvg-id = "SPORTV 2" tvg-name = "SPORTV 2 SD" tvg-logo = "http://img.starbr.in/1559767136_beb250b47a8f261b8dc9f81c035ad059abf4b90d.jpg" group-title = "Esportes", SPORTV 2 SD
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes7/esportes7_500/index.m3u8
@@ -82,7 +82,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/esportes22_1000/ind
 http://list.deeplist.nl:80/claudineteshow115/claudinetegostosa115/75050
 #EXTINF: -1 tvg-id = "COPA DO NORDESTE" tvg-name = "COPA DO NORDESTE 2 HD" tvg-logo = "https://upload.wikimedia.org/wikipedia/en/0/05/Copa_do_Nordeste. png "group-title =" Esportes ", COPA DO NORDESTE 2 HD
 http://list.deeplist.nl:80/claudineteshow115/claudinetegostosa115/75050
-#XTINF: -1 tvg-id = "COPA DO NORDESTE" tvg-name = "COPA DO NORDESTE 1 SD" tvg-logo = "https://upload.wikimedia.org/wikipedia/en/0/05/Copa_do_Nordeste. png "group-title =" Esportes ", COPA DO NORDESTE 1 SD
+#EXTINF: -1 tvg-id = "COPA DO NORDESTE" tvg-name = "COPA DO NORDESTE 1 SD" tvg-logo = "https://upload.wikimedia.org/wikipedia/en/0/05/Copa_do_Nordeste. png "group-title =" Esportes ", COPA DO NORDESTE 1 SD
 http://list.deeplist.nl:80/claudineteshow115/claudinetegostosa115/75047
 #EXTINF: -1 tvg-id = "COPA DO NORDESTE" tvg-name = "COPA DO NORDESTE SD 2" tvg-logo = "https://freepikpsd.com/wp-content/uploads/2019/10/copa- do-nordeste-png-3-Transparent-Images.png "group-title =" Esportes ", COPA DO NORDESTE SD 2
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/esportes22_2000/index.m3u8
