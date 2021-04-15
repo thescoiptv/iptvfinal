@@ -1,0 +1,100 @@
+#EXTM3U#EXTINF:-1 tvg-id="SPORTV 1" tvg-name="SPORTV HD" tvg-logo="http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title="Esportes",SPORTV 1 HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+#EXTM3U#EXTINF:-1 tvg-id="SPORTV 1" tvg-name="SPORTV 1 SD ALTERNATIVO 2" tvg-logo="http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title="Esportes",SPORTV 1 SD ALTERNATIVO 2
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_1000/index.m3u8
+#EXTM3U#EXTINF:-1 tvg-id="SPORTV 1" tvg-name="SPORTV SD ALTERNATIVO" tvg-logo="http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title="Esportes",SPORTV 1 SD ALTERNATIVO
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_500/index.m3u8
+#EXTM3U#EXTINF:-1 tvg-id="SPORTV 1" tvg-name="SPORTV 1 SD" tvg-logo="http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title="Esportes",SPORTV 1 SD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_350/index.m3u8
+#EXTM3U#EXTINF:-1 tvg-id="SPORTV 1" tvg-name="SPORTV 1 HD ALTERNATIVA" tvg-logo="http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title="Esportes",SPORTV 1 HD ALTERNATIVA
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sportv_91dfde1d_fc34ea1aabeabfa05bdf79ecc71f01460f729016/playlist.m3u8
+#EXTM3U#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV FHD" tvg-logo="http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title="Esportes",SPORTV 1 FHD 
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+#EXTM3U#EXTINF:-1 tvg-id="SPORTV 1" tvg-name="SPORTV 1 FHD ALTERNATIVO" tvg-logo="http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title="Esportes",SPORTV 1 FHD ALTERNATIVO 
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14360.m3u8
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2 SD" tvg-logo="http://img.starbr.in/1559767136_beb250b47a8f261b8dc9f81c035ad059abf4b90d.jpg" group-title="Esportes",SPORTV 2 SD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes7/esportes7_500/index.m3u8
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2 HD" tvg-logo="http://img.starbr.in/1559767136_beb250b47a8f261b8dc9f81c035ad059abf4b90d.jpg" group-title="Esportes",SPORTV 2 HD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes7/esportes7_1000/index.m3u8
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2 FULL HD" tvg-logo="http://img.starbr.in/1559767136_beb250b47a8f261b8dc9f81c035ad059abf4b90d.jpg" group-title="Esportes",SPORTV 2 FULL HD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes7/esportes7_2000/index.m3u8
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3 SD" tvg-logo="http://img.starbr.in/1559767279_50e3fb28e897b471b2d5ea3e671a2e62505ebc31.png" group-title="Esportes",SPORTV 3 SD
+https://extedge.eu-central-1.edge.mycdn.live/live/sportv3sd/2021/03/28/12/28/05-05000.m3u8
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3 SD ALTERNATIVA" tvg-logo="http://img.starbr.in/1559767279_50e3fb28e897b471b2d5ea3e671a2e62505ebc31.png" group-title="Esportes",SPORTV 3 SD ALTERNATIVA
+http://list.deeplist.nl:80/claudineteshow115/claudinetegostosa115/2402.m3u8
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3 HD ALTERNATIVA" tvg-logo="http://img.starbr.in/1559767279_50e3fb28e897b471b2d5ea3e671a2e62505ebc31.png" group-title="Esportes",SPORTV 3 HD ALTERNATIVA
+https://extedge.eu-central-1.edge.mycdn.live/live/sportv3sd/2021/03/28/12/28/05-05000.ts
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3 FHD" tvg-logo="http://img.starbr.in/1559767279_50e3fb28e897b471b2d5ea3e671a2e62505ebc31.png" group-title="Esportes",SPORTV 3 FHD 
+http://exaiptv.club:8080/987654/987654/19451
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3 FHD ALTERNATIVA" tvg-logo="http://img.starbr.in/1559767279_50e3fb28e897b471b2d5ea3e671a2e62505ebc31.png" group-title="Esportes",SPORTV 3 FHD ALTERNATIVA
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/90334.m3u8
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3 FHD ALTERNATIVA 2" tvg-logo="http://img.starbr.in/1559767279_50e3fb28e897b471b2d5ea3e671a2e62505ebc31.png" group-title="Esportes",SPORTV 3 FHD ALTERNATIVA 2
+http://dnsx.co:80/live/vania.iptv2/vania/90335.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS HD" tvg-logo="http://img.starbr.in/1559757583_5f1bd1eb932e0a1690ccd546d827fc1719220967.png" group-title="Esportes",FOX SPORTS HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS HD" tvg-logo="http://img.starbr.in/1559757583_5f1bd1eb932e0a1690ccd546d827fc1719220967.png" group-title="Esportes",FOX SPORTS HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_1000/index.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS SD ALTERNATIVA" tvg-logo="http://img.starbr.in/1559757583_5f1bd1eb932e0a1690ccd546d827fc1719220967.png" group-title="Esportes",FOX SPORTS SD ALTERNATIVA
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_500/index.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS FHD ALTERNATIVA" tvg-logo="http://img.starbr.in/1559757583_5f1bd1eb932e0a1690ccd546d827fc1719220967.png" group-title="Esportes",FOX SPORTS FHD 
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS 2 SD ALTERNATIVA" tvg-logo="http://2.bp.blogspot.com/-pLC1ogdzE0Y/Urgu07-iXII/AAAAAAAAgWU/jU8ju6jC_bQ/s1600/foxsports2.png" group-title="Esportes",FOX SPORTS 2 SD ALTERNATIVA
+http://dnsx.co:80/live/vania.iptv2/vania/71956.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://2.bp.blogspot.com/-pLC1ogdzE0Y/Urgu07-iXII/AAAAAAAAgWU/jU8ju6jC_bQ/s1600/foxsports2.png" group-title="Esportes",FOX SPORTS 2 HD 
+https://abr-f.eu-central-1.edge.mycdn.live/eiplus/80ff5d21edfccbd012c4ac113f5a4f90/playlist.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS HD ALTERNATIVA" tvg-logo="http://img.starbr.in/1559757583_5f1bd1eb932e0a1690ccd546d827fc1719220967.png" group-title="Esportes",FOX SPORTS HD ALTERNATIVA
+http://dnsx.co:80/live/vania.iptv2/vania/71960.m3u8
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png" group-title="Esportes",PREMIERE CLUBES HD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_1000/index.m3u8
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES SD" tvg-logo="https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png" group-title="Esportes",PREMIERE CLUBES SD
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiereclubes_3f1522d0_dda6445814349cc762a93a0485785251cdf0aebd/playlist.m3u8
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES FHD" tvg-logo="https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png" group-title="Esportes",PREMIERE CLUBES FHD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES SD ALTERNATIVA" tvg-logo="https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png" group-title="Esportes",PREMIERE CLUBES SD ALTERNATIVA
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_350/index.m3u8
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES HD ALTERNATIVA" tvg-logo="https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png" group-title="Esportes",PREMIERE CLUBES HD ALTERNTIVA
+http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/72266.m3u8
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES HD ALTERNTIVA 2" tvg-logo="https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png" group-title="Esportes",PREMIERE CLUBES HD ALTERNTIVA 2
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_1000/index.m3u8
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES FHD ALTENATIVA" tvg-logo="https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png" group-title="Esportes",PREMIERE CLUBES FHD ALTERNATIVA
+http://dnsx.co:80/live/vania.iptv2/vania/72262.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo.png" group-title="Esportes",ESPN HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
+#EXTINF:-1 tvg-id="COPA DO NORDESTE" tvg-name="COPA DO NORDESTE SD" tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/copa-do-nordeste-png-3-Transparent-Images.png" group-title="Esportes",COPA DO NORDESTE SD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
+#EXTINF:-1 tvg-id="COPA DO NORDESTE" tvg-name="COPA DO NORDESTE HD" tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/copa-do-nordeste-png-3-Transparent-Images.png" group-title="Esportes",COPA DO NORDESTE HD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_1000/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN SD" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="Esportes",ESPN SD
+http://dnsx.co/live/vania.iptv2/vania/71923.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="Esportes",ESPN HD
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_480_av-p.m3u8
+#EXTINF:-1 tvg-id="COPA DO NORDESTE" tvg-name="COPA DO NORDESTE HD ALTER" tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/copa-do-nordeste-png-3-Transparent-Images.png" group-title="Esportes",COPA DO NORDESTE HD ALTER
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/esportes22_2000/index.m3u8 
+#EXTINF:-1 tvg-id="COPA DO NORDESTE" tvg-name="COPA DO NORDESTE FHD" tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/copa-do-nordeste-png-3-Transparent-Images.png" group-title="Esportes",COPA DO NORDESTE FHD 
+http://dnsx.co:80/live/vania.iptv2/vania/71919.m3u8
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL SD" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/espn-brasil-2-logo.png" group-title="Esportes",ESPN BRASIL SD
+http://dnsx.co/live/vania.iptv2/vania/71914.m3u8
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL HD" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/espn-brasil-2-logo.png" group-title="Esportes",ESPN BRASIL HD
+http://185.180.15.18:2200/BR/ESPN_Brasil_HD-br/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL HD ALTERNATIVA" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/espn-brasil-2-logo.png" group-title="Esportes",ESPN BRASIL HD ALTERNATIVA
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_1000/index.m3u8
+#EXTINF:-1 tvg-id="COPA DO NORDESTE" tvg-name="COPA DO NORDESTE 2 HD ALTERNATIVA" tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/copa-do-nordeste-png-3-Transparent-Images.png" group-title="Esportes",BAND SPORTS HD ALTERNATIVA
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/esportes22_1000/index.m3u8
+#EXTINF:-1 tvg-id="COPA DO NORDESTE" tvg-name="COPA DO NORDESTE HD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Copa_do_Nordeste.png" group-title="Esportes",COPA DO NORDESTE HD 1
+http://list.deeplist.nl:80/claudineteshow115/claudinetegostosa115/75050
+#EXTINF:-1 tvg-id="COPA DO NORDESTE" tvg-name="COPA DO NORDESTE 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Copa_do_Nordeste.png" group-title="Esportes",COPA DO NORDESTE 2 HD
+http://list.deeplist.nl:80/claudineteshow115/claudinetegostosa115/75050
+#XTINF:-1 tvg-id="COPA DO NORDESTE" tvg-name="COPA DO NORDESTE 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Copa_do_Nordeste.png" group-title="Esportes",COPA DO NORDESTE 1 SD
+http://list.deeplist.nl:80/claudineteshow115/claudinetegostosa115/75047
+#EXTINF:-1 tvg-id="COPA DO NORDESTE" tvg-name="COPA DO NORDESTE SD 2" tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/copa-do-nordeste-png-3-Transparent-Images.png" group-title="Esportes",COPA DO NORDESTE SD 2
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/esportes22_2000/index.m3u8
+#EXTINF:-1 tvg-id="COPA DO NORDESTE" tvg-name="COPA DO NORDESTE SD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Copa_do_Nordeste.png" group-title="Esportes",COPA DO NORDESTE SD 2
+http://list.deeplist.nl:80/claudineteshow115/claudinetegostosa115/75047
+#EXTINF:-1 tvg-id="CARIOCAO" tvg-name="CARIOCAO HD" tvg-logo="http://m.lance.com.br/files/admin_slider_thumbnail/uploads/2021/02/23/60352a9284f9f.jpeg" group-title="Esportes",CARIOCAO HD
+http://list.deeplist.nl:80/claudineteshow115/claudinetegostosa115/75085
+#EXTINF:-1 tvg-id="CARIOCAO" tvg-name="CARIOCAO SD" tvg-logo="http://m.lance.com.br/files/admin_slider_thumbnail/uploads/2021/02/23/60352a9284f9f.jpeg" group-title="Esportes",CARIOCAO SD
+http://list.deeplist.nl:80/claudineteshow115/claudinetegostosa115/75087
+#EXTINF:-1 tvg-id="CARIOCAO" tvg-name="CARIOCAO FHD" tvg-logo="http://m.lance.com.br/files/admin_slider_thumbnail/uploads/2021/02/23/60352a9284f9f.jpeg" group-title="Esportes",CARIOCAO FHD
+http://list.deeplist.nl:80/claudineteshow115/claudinetegostosa115/75088
+#EXTINF:-1 tvg-id="CARIOCAO" tvg-name="CARIOCAO HD ALTER" tvg-logo="http://m.lance.com.br/files/admin_slider_thumbnail/uploads/2021/02/23/60352a9284f9f.jpeg" group-title="Esportes",CARIOCAO HD ALTER
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_500/index.m3u8
